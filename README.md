@@ -1,2 +1,12 @@
 # A-weather-app-I-made
-I made this weather app via tutorials
+I made this weather app via tutorials. You can edit the UI
+
+TECHNOLOGIES USED: Languages used: HTML, CSS, JavaScript API: [OpenWeatherMap.org](OpenWeatherMap.org)
+
+For more information: How to get the name of the location (city or area here) by using longitude and latitude: [https://openweathermap.org/api/geocoding-api](https://openweathermap.org/api/geocoding-api)
+
+Get the current information of the weather of the location: [https://openweathermap.org/current](https://openweathermap.org/current)
+
+Get a 5-day forecast: [https://openweathermap.org/forecast5](https://openweathermap.org/forecast5)
+
+
