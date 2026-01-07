@@ -11,6 +11,7 @@ Get the current information of the weather of the location: [https://openweather
 Get a 5-day forecast: [https://openweathermap.org/forecast5](https://openweathermap.org/forecast5)
 
 Credits:
+
 Credit to [GreatStack](https://www.youtube.com/@GreatStackDev) on youtube for the tutorial
 
 Youtube tutorial: [https://youtu.be/MIYQR-Ybrn4?si=rTxJiDBRPZ9aqlgR](https://youtu.be/MIYQR-Ybrn4?si=rTxJiDBRPZ9aqlgR)
